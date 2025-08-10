@@ -28,4 +28,13 @@ Repo initialized. Project files will be added once Unreal is accessible.
 -Kris 
 
 ## 📁 Folder Plan
+Content/
+├── Blueprints/       → Game logic and mechanics
+├── UI/               → Menus, HUDs, and widgets
+└── Assets/           → Textures, sounds, meshes, etc.
 
+
+## 📝 Notes
+
+- Avoid committing `Saved/`, `Intermediate/`, and other temp folders.
+- Use `.gitignore` to keep the repo clean.
